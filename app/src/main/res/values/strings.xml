@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Camping</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_product_form">ProductFormActivity</string>
+
+    <color name="line_bg">#CCCCCC</color>
+
+
+    <!--activity_camping.xml-->
+    <color name="bottom_button_background">#EEEEEE</color>
+</resources>
